@@ -3,13 +3,13 @@
 Plugin Name: WP GIF Player
 Description:  An easy to use GIF Player for Wordpress
 Version: 0.8
-Author: Stefanie Stoppel @ psmedia GmbH
-Author URI: http://p-s-media.de/
+Author: David Bedenknecht
+Author URI: http://www.sketchmouse.com/
 */
 
 /*
 WP GIF Player, an easy to use GIF Player for Wordpress
-Copyright (C) 2015  Stefanie Stoppel @ psmedia GmbH (http://p-s-media.de/kontakt)
+Copyright (C) 2016 David Bedenknecht (http://www.sketchmouse.com/page/contact)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
