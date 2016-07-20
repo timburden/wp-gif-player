@@ -1,5 +1,5 @@
 === WP GIF Player ===
-Contributors:  sketchmouse, _changa_, cudaja
+Contributors: sketchmousecom
 Tags: gif, player, easy, performance, image, preview
 Requires at least: 3.0.1
 Tested up to: 4.3
