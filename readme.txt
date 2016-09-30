@@ -2,7 +2,7 @@
 Contributors: sketchmousecom
 Tags: gif, player, easy, performance, image, preview
 Requires at least: 3.0.1
-Tested up to: 4.3
+Tested up to: 4.6.1
 Stable tag: 0.8
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -23,6 +23,9 @@ WP GIF Player is an easy to use GIF Player for WordPress. It prevents GIF-files 
 + Supports parallel uploads
 * Simple installation
 * Easily limit maximum screen size of your GIF
+
+> <strong>Live Demo</strong><br>
+> You can see the WP GIF Player in action here [Demo](http://wp-gif-player.sketchmouse.com/).
 
 > <strong>WP GIF Player on GitHub</strong><br>
 > Please contribute to the project on [GitHub](https://github.com/sketchmouse/wp-gif-player).
