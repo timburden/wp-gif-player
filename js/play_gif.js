@@ -84,7 +84,7 @@ jQuery(function(){
     });
 
 
-    jQuery(window).load( function() {
+    jQuery(window).on( 'load',  function() {
         spinnerPreload.stop(); //stop spinner when all images have loaded and play button should be clickable
 
         var showing_btn_idx = "";
